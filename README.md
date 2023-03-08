@@ -1,2 +1,2 @@
-# PrepCourse_Henry
-Este es un repositorio para el modulo2 de preparacion para henry
+Jonatan Tovar
+Este es un ejemplo de como clonar un repositorio github en mi escritorio
